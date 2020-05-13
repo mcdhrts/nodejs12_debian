@@ -1,5 +1,7 @@
 FROM debian:buster
 
+LABEL maintainer="mcdhrts"
+
 ENV DEBIAN_FRONTEND noninteractive
 
 # Install prerequisites

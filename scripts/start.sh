@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Logging header
-echo ' Hallo '
+echo ' Start Debian NodeJS Container Done '
 
 # Preventing container restart by keeping a process alive
 tail -f /dev/null
